@@ -18,7 +18,7 @@ Start the application with:
 gradle bootRun
 ```
 
-### 4. Access the Application
+### 3. Access the Application
 - **APIs**: Use tools like Postman or `curl`.
 - **H2 Console**: Visit `http://localhost:8080/h2-console`.
   - **JDBC URL**: `jdbc:h2:mem:testdb`
